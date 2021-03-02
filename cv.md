@@ -27,12 +27,12 @@ function fibonacci(num)
         num1=num2; 
         num2=sum; 
     } 
-    return num2; 
+    return num2;
 } 
 ```
 
 ## Experience and education
-I have an electrical engineering background and I enjoy playing guitar
+I have an electrical engineering background and I enjoy playing guitar and more
 
 ## English level
 Basic level (A2)
